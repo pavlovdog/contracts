@@ -1,0 +1,10 @@
+{
+  "name": "@farcasterxyz/contracts",
+  "version": "2.0.0",
+  "files": [
+    "src/**/*.sol"
+  ],
+  "repository": "git@github.com:farcasterxyz/contracts.git",
+  "author": "Varun Srinivasan <varunsrin@gmail.com>",
+  "license": "None"
+}
